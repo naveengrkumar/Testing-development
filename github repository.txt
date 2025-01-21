@@ -13,3 +13,5 @@ This is the first testing development project
 5. Prepare and start giving interviews and crack it
 
 6. Making a new change to learn api testing
+
+7. Prepare the resume and start giving interviews and be bold
